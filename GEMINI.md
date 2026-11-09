@@ -1,1 +1,1 @@
-@./skills/ultralearning-planner/SKILL.md
+@./skills/using-ultralearning/SKILL.md

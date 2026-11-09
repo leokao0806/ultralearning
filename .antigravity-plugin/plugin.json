@@ -1,12 +1,14 @@
 {
   "name": "ultralearning",
-  "displayName": "Ultralearning Planner",
-  "version": "1.0.0",
-  "description": "An agentic implementation of Scott Young's Ultralearning methodology for self-directed study and deliberate practice.",
+  "displayName": "Ultralearning",
+  "version": "1.1.0",
+  "description": "A modular skills framework bringing Scott Young's Ultralearning methodology to AI coding agents.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
-    "I want to design an intensive ultralearning project",
-    "Audit and optimize my study plan using ultralearning principles"
+    "I want to master a new skill using the ultralearning framework",
+    "Help me break down a massive learning domain with metalearning",
+    "I'm stuck on a difficult concept, let's drill it with the Feynman technique",
+    "Let's audit my learning velocity and check for diminishing returns"
   ],
   "category": "Education & Productivity",
   "keywords": [
@@ -15,6 +17,7 @@
     "study-plan",
     "metalearning",
     "feynman-technique",
+    "deliberate-practice",
     "spaced-repetition"
   ],
   "author": {
