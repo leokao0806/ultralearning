@@ -1,7 +1,7 @@
 # ⚡ Ultralearning Skill for AI Coding Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Supported Agents](https://img.shields.io/badge/Agents-Claude%20Code%20|%20Antigravity%20|%20Cursor%20|%20Codex-success)](https://github.com/leokao0806/ultralearning-skill)
+[![Supported Agents](https://img.shields.io/badge/Agents-Claude%20Code%20|%20Antigravity%20|%20Cursor%20|%20Codex-success)](https://github.com/leokao0806/ultralearning)
 
 An aggressive, self-directed learning plan engine for your AI coding agents, built on **Scott H. Young's *Ultralearning*** methodology and empirical cognitive science (Karpicke & Roediger's testing effect, Bjork's desirable difficulties, Yerkes-Dodson arousal law, and Goldratt's theory of constraints).
 
@@ -27,29 +27,29 @@ Install this skill across any major AI Agent runtime:
 ### 1. Claude Code
 Install directly as a plugin:
 ```bash
-/plugin install leokao0806/ultralearning-skill
+/plugin install leokao0806/ultralearning
 ```
 *Or clone into your local skills directory:*
 ```bash
-git clone https://github.com/leokao0806/ultralearning-skill.git ~/.claude/skills/ultralearning-skill
+git clone https://github.com/leokao0806/ultralearning.git ~/.claude/skills/ultralearning
 ```
 
 ### 2. Antigravity (Google / Gemini)
 Install the plugin directly via the CLI:
 ```bash
-agy plugin install https://github.com/leokao0806/ultralearning-skill
+agy plugin install https://github.com/leokao0806/ultralearning
 ```
 
 ### 3. Cursor
 Clone or submodule into your workspace `.cursor/rules` or project skills:
 ```bash
-git clone https://github.com/leokao0806/ultralearning-skill.git .agents/skills/ultralearning-skill
+git clone https://github.com/leokao0806/ultralearning.git .agents/skills/ultralearning
 ```
 
 ### 4. OpenAI Codex / Other Coding Agents
 Clone into the universal cross-runtime skills directory:
 ```bash
-git clone https://github.com/leokao0806/ultralearning-skill.git ~/.agents/skills/ultralearning-skill
+git clone https://github.com/leokao0806/ultralearning.git ~/.agents/skills/ultralearning
 ```
 
 ---
