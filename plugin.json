@@ -1,0 +1,27 @@
+{
+  "name": "ultralearning",
+  "displayName": "Ultralearning",
+  "version": "1.0.0",
+  "description": "An agentic implementation of Scott Young's Ultralearning methodology for self-directed study and deliberate practice.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "I want to design an intensive ultralearning project to master Go in 6 weeks",
+    "Audit and optimize my current study plan using ultralearning principles"
+  ],
+  "category": "Education & Productivity",
+  "keywords": [
+    "ultralearning",
+    "learning-plan",
+    "study-plan",
+    "metalearning",
+    "feynman-technique",
+    "spaced-repetition"
+  ],
+  "author": {
+    "name": "Leo Kao",
+    "email": "leokaosky2002@gmail.com"
+  },
+  "homepage": "https://github.com/leokao0806/ultralearning",
+  "repository": "https://github.com/leokao0806/ultralearning",
+  "license": "MIT"
+}
