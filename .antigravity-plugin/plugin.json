@@ -1,0 +1,26 @@
+{
+  "name": "ultralearning",
+  "displayName": "Ultralearning Planner",
+  "version": "1.0.0",
+  "description": "Aggressive, self-directed learning plan engine based on Scott Young's Ultralearning methodology and cognitive science.",
+  "suggestedPrompts": [
+    "I want to design an ultralearning project to master a skill in 6 weeks",
+    "Help me audit and optimize my current study plan using ultralearning principles"
+  ],
+  "category": "Education & Productivity",
+  "keywords": [
+    "ultralearning",
+    "learning-plan",
+    "study-plan",
+    "metalearning",
+    "feynman-technique",
+    "spaced-repetition"
+  ],
+  "author": {
+    "name": "Leo Kao",
+    "email": "leokaosky2002@gmail.com"
+  },
+  "homepage": "https://github.com/leokao0806/ultralearning-skill",
+  "repository": "https://github.com/leokao0806/ultralearning-skill",
+  "license": "MIT"
+}

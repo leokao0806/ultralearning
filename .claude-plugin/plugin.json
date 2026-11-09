@@ -1,0 +1,21 @@
+{
+  "name": "ultralearning",
+  "description": "Aggressive, self-directed learning plan engine based on Scott Young's Ultralearning principles and cognitive science.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Leo Kao",
+    "email": "leokaosky2002@gmail.com"
+  },
+  "homepage": "https://github.com/leokao0806/ultralearning-skill",
+  "repository": "https://github.com/leokao0806/ultralearning-skill",
+  "license": "MIT",
+  "keywords": [
+    "ultralearning",
+    "learning-plan",
+    "study-plan",
+    "metalearning",
+    "feynman-technique",
+    "spaced-repetition",
+    "deliberate-practice"
+  ]
+}

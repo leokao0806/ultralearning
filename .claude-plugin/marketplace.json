@@ -1,0 +1,20 @@
+{
+  "name": "ultralearning-marketplace",
+  "description": "Marketplace for Ultralearning Skills",
+  "owner": {
+    "name": "Leo Kao",
+    "email": "leokaosky2002@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "ultralearning",
+      "description": "Aggressive, self-directed learning plan engine based on Scott Young's Ultralearning principles and cognitive science.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Leo Kao",
+        "email": "leokaosky2002@gmail.com"
+      }
+    }
+  ]
+}
