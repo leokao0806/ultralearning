@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "ultralearning",
-      "description": "An agentic skills framework & self-directed learning methodology that works.",
+      "description": "An agentic implementation of Scott Young's Ultralearning methodology for self-directed study and deliberate practice.",
       "version": "1.0.0",
       "source": "./",
       "icon": "assets/logo.png",

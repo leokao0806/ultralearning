@@ -2,7 +2,7 @@
   "name": "ultralearning",
   "displayName": "Ultralearning Planner",
   "version": "1.0.0",
-  "description": "An agentic skills framework & self-directed learning methodology that works.",
+  "description": "An agentic implementation of Scott Young's Ultralearning methodology for self-directed study and deliberate practice.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
     "I want to design an intensive ultralearning project",

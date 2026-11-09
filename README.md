@@ -5,13 +5,16 @@
 <h1 align="center">⚡ Ultralearning</h1>
 
 <p align="center">
-  <strong>An agentic skills framework & self-directed learning methodology that works.</strong>
+  <strong>An agentic skills framework bringing Scott Young's Ultralearning methodology to AI coding agents.</strong>
 </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://github.com/leokao0806/ultralearning"><img src="https://img.shields.io/badge/Agents-Claude%20Code%20|%20Antigravity%20|%20Cursor%20|%20Codex-success" alt="Supported Agents"></a>
 </p>
+
+> [!NOTE]
+> **Attribution:** This project is an open-source AI agent skill implementation of the **Ultralearning** framework created by **Scott H. Young** in his book *[Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career](https://www.scotthyoung.com/blog/ultralearning/)* (Harper Business, 2019). All core pedagogical principles and methodologies are the intellectual work of Scott H. Young.
 
 ---
 
@@ -134,6 +137,19 @@ The agent activates `skills/ultralearning-planner/SKILL.md` and guides you throu
 7. **Retention:** Don't fill a leaky bucket. Spaced repetition and proceduralization.
 8. **Intuition:** Dig deep before building up. Enforce the 15-minute struggle timer and Feynman technique.
 9. **Experimentation:** Explore outside comfort zones. A/B test methods and impose novel constraints.
+
+---
+
+## 📚 Attribution & Acknowledgments
+
+This project is an open-source AI agent implementation inspired by and built directly upon the methodology developed by **Scott H. Young** in his bestselling book:
+
+> **[*Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career*](https://www.scotthyoung.com/blog/ultralearning/)**  
+> by Scott H. Young (Harper Business, 2019)
+
+All core pedagogical concepts, the 9 principles (Metalearning, Focus, Directness, Drill, Retrieval, Feedback, Retention, Intuition, Experimentation), and project structuring techniques are the intellectual work of Scott H. Young. This repository serves as an operational translation that equips autonomous AI coding agents (Claude Code, Antigravity, Cursor, Codex) to act as ultralearning coaches and curriculum architects for human learners.
+
+We strongly encourage everyone using this skill to purchase and read the original book for the full depth of insights, historical case studies, and psychological nuances.
 
 ---
 
