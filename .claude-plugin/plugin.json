@@ -1,7 +1,8 @@
 {
   "name": "ultralearning",
-  "description": "Aggressive, self-directed learning plan engine based on Scott Young's Ultralearning principles and cognitive science.",
+  "description": "An agentic skills framework & self-directed learning methodology that works.",
   "version": "1.0.0",
+  "icon": "assets/logo.png",
   "author": {
     "name": "Leo Kao",
     "email": "leokaosky2002@gmail.com"

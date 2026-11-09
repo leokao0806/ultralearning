@@ -1,9 +1,19 @@
-# ⚡ Ultralearning Skill for AI Coding Agents
+<p align="center">
+  <img src="assets/logo.png" width="120" height="120" alt="Ultralearning Logo">
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Supported Agents](https://img.shields.io/badge/Agents-Claude%20Code%20|%20Antigravity%20|%20Cursor%20|%20Codex-success)](https://github.com/leokao0806/ultralearning)
+<h1 align="center">⚡ Ultralearning</h1>
 
-An aggressive, self-directed learning plan engine for your AI coding agents, built on **Scott H. Young's *Ultralearning*** methodology and empirical cognitive science (Karpicke & Roediger's testing effect, Bjork's desirable difficulties, Yerkes-Dodson arousal law, and Goldratt's theory of constraints).
+<p align="center">
+  <strong>An agentic skills framework & self-directed learning methodology that works.</strong>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/leokao0806/ultralearning"><img src="https://img.shields.io/badge/Agents-Claude%20Code%20|%20Antigravity%20|%20Cursor%20|%20Codex-success" alt="Supported Agents"></a>
+</p>
+
+---
 
 Turn vague desires (*"I want to learn Go"* or *"I want to master machine learning"*) into high-velocity, milestone-driven blueprints optimized for maximum retention and direct real-world transfer.
 

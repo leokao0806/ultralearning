@@ -1,7 +1,7 @@
 {
   "name": "ultralearning",
   "version": "1.0.0",
-  "description": "Aggressive, self-directed learning plan engine based on Scott Young's Ultralearning methodology and cognitive science.",
+  "description": "An agentic skills framework & self-directed learning methodology that works.",
   "author": {
     "name": "Leo Kao",
     "email": "leokaosky2002@gmail.com",
@@ -20,7 +20,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Ultralearning Planner",
-    "shortDescription": "Design aggressive, self-directed learning projects",
+    "shortDescription": "An agentic skills framework & self-directed learning methodology that works.",
     "longDescription": "Transform vague learning goals into actionable, high-velocity study blueprints using Scott Young's 9 Principles of Ultralearning and cognitive science.",
     "developerName": "Leo Kao",
     "category": "Education & Productivity",
@@ -31,6 +31,8 @@
     ],
     "defaultPrompt": [
       "Help me design an ultralearning project."
-    ]
+    ],
+    "logo": "./assets/app-icon.png",
+    "composerIcon": "./assets/logo.png"
   }
 }
